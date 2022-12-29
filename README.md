@@ -12,4 +12,4 @@ The results of this v1 are not optimal, as expected. A bad combination of high l
 
 ## Summary
 
-We can achieve much better prediction results as we continue data preprocessing and model configuration.
+We can achieve much better prediction results as we continue data preprocessing, data collection and model configuration. Each of these items were planned in deliverable 3 but time was short during the holidays.
