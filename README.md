@@ -12,4 +12,4 @@ The results of this v1 are not optimal, as expected. A bad combination of high l
 
 ## Summary
 
-We can achieve much better prediction results as we continue data preprocessing and neural network configuration.
+We can achieve much better prediction results as we continue data preprocessing and model configuration.
